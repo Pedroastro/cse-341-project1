@@ -1,0 +1,19 @@
+{
+  "name": "cse-341-project1",
+  "version": "1.0.0",
+  "description": "Week 01 CSE 341 Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedroastro/cse-341-project1.git"
+  },
+  "author": "pedroastro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pedroastro/cse-341-project1/issues"
+  },
+  "homepage": "https://github.com/Pedroastro/cse-341-project1#readme"
+}
