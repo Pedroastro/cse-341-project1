@@ -1,0 +1,17 @@
+GET https://cse-341-project1-63iy.onrender.com/contacts
+content-type: application/json
+
+###
+
+GET https://cse-341-project1-63iy.onrender.com/contacts/68cee799e0e29df8fe389625
+content-type: application/json
+
+###
+
+GET https://cse-341-project1-63iy.onrender.com/contacts/68ceec72e0e29df8fe389626
+content-type: application/json
+
+###
+
+GET https://cse-341-project1-63iy.onrender.com/contacts/68ceed14e0e29df8fe389627
+content-type: application/json
