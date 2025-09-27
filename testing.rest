@@ -1,3 +1,5 @@
+### Get all contacts
+
 GET https://cse-341-project1-63iy.onrender.com/contacts
 content-type: application/json
 
@@ -15,3 +17,32 @@ content-type: application/json
 
 GET https://cse-341-project1-63iy.onrender.com/contacts/68ceed14e0e29df8fe389627
 content-type: application/json
+
+### Create a new contact
+
+POST https://musical-train-g66rpvwvj65297jr-3000.app.github.dev/contacts
+content-type: application/json
+
+{
+    "firstName":"Test",
+    "lastName":"tUser",
+    "email":"test@example.com",
+    "favoriteColor":"Green",
+    "birthday":"2000-01-20"
+}
+
+### Update a contact
+
+PUT https://musical-train-g66rpvwvj65297jr-3000.app.github.dev/contacts/68d762a7c0fda19fcb23e2e4
+content-type: application/json
+
+{
+    "firstName":"Test",
+    "lastName":"Updated 1 time",
+    "email":"test@example.com",
+    "favoriteColor":"Green",
+    "birthday":"2000-01-20"
+}
+
+### Delete a contact
+DELETE https://musical-train-g66rpvwvj65297jr-3000.app.github.dev/contacts/68d762a7c0fda19fcb23e2e4
