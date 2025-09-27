@@ -5,7 +5,7 @@ const doc = {
     title: 'Users Api',
     description: 'Users Api',
   },
-  host: 'musical-train-g66rpvwvj65297jr-3000.app.github.dev',
+  host: 'localhost:3000',
   schemes: ['https'],
 };
 
