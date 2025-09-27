@@ -20,7 +20,7 @@ content-type: application/json
 
 ### Create a new contact
 
-POST https://musical-train-g66rpvwvj65297jr-3000.app.github.dev/contacts
+POST https://cse-341-project1-63iy.onrender.com/contacts
 content-type: application/json
 
 {
@@ -33,7 +33,7 @@ content-type: application/json
 
 ### Update a contact
 
-PUT https://musical-train-g66rpvwvj65297jr-3000.app.github.dev/contacts/68d762a7c0fda19fcb23e2e4
+PUT https://cse-341-project1-63iy.onrender.com/contacts/68d762a7c0fda19fcb23e2e4
 content-type: application/json
 
 {
@@ -45,4 +45,4 @@ content-type: application/json
 }
 
 ### Delete a contact
-DELETE https://musical-train-g66rpvwvj65297jr-3000.app.github.dev/contacts/68d762a7c0fda19fcb23e2e4
+DELETE https://cse-341-project1-63iy.onrender.com/contacts/68d762a7c0fda19fcb23e2e4
